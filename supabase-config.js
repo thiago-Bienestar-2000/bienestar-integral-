@@ -16,7 +16,7 @@
 // y no se usa en ningún archivo de este proyecto.
 // ============================================================
 
-const SUPABASE_URL = "https://krqavebtexbtglbwmztb.supabase.co";
+const SUPABASE_URL = "https://bydtgsdcymdbezwbouwk.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_kEtI1yQ0ki00nRwwHlzPWw_2t-7o_VW";
 
 window.sb = (SUPABASE_URL.includes("TU-PROYECTO"))
